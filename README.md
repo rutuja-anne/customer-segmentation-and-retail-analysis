@@ -112,4 +112,5 @@ GitHub	Version control and sharing
 
 ✅ Conclusion
 This project demonstrates a complete end-to-end customer analytics pipeline, from raw data cleaning and RFM segmentation in Python to professional dashboarding in Power BI. It offers real business value by helping companies better understand customer segments and behavior.
+![Screenshot 2025-06-01 124550](https://github.com/user-attachments/assets/150d6b81-774e-4c71-9f68-cbfeb25d0b2a)
 
